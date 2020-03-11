@@ -1,0 +1,9 @@
+server:
+  port: 8021
+
+file:
+  location: /Users/anukumar/Desktop/personal/
+  inputFileName: sample_input
+  inputFileExtn: csv
+  outputFileName: sample_output
+  outputFileExtn: csv
